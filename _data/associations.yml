@@ -1,11 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
+- organization: organización
+  role: organización.
   year: 2001 &mdash; 2010
   url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  summary: Organizacion de varias empresas comoLas certificaciones de nuestro equipo de técnicos permiten ofrecerte pólizas anuales de mantenimiento y entrenamientos para tus equipos de trabajo.  PETA's local Springfield operations.
 
 
 - organization: Yale Amnesty International
