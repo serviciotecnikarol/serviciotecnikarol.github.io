@@ -5,7 +5,7 @@ description: "A resume template for Jekyll and GitHub Pages sites."
 # Build settings
 markdown: kramdown
 sass:
-  sass_dir: _sass
+  sass_dir:  _sass
   style: compressed
 
 # Resume settings
